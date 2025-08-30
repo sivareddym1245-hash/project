@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Lionel Messi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f5;
+            color: #333;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2e6da4;
+        }
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
+        }
+        img {
+            width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>About Lionel Messi</h1>
+
+    <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/08/untitled-design-2025-08-29t105052-1756444869.webp" alt="Lionel Messi">
+
+    <p>
+        <strong>Lionel Messi</strong> is a professional footballer from <em>Argentina</em>, widely regarded as one of the greatest players of all time. 
+        He currently plays for <span class="highlight">Inter Miami</span> in Major League Soccer (MLS) and the Argentina national team.
+    </p>
+
+    <h2>Early Life</h2>
+    <p>
+        Messi was born on June 24, 1987, in Rosario, Argentina. From a young age, he showed exceptional talent in football and joined the youth system of Newell's Old Boys. At age 13, he moved to Spain to join <strong>FC Barcelona</strong>.
+    </p>
+
+    <h2>Career Achievements</h2>
+    <ul>
+        <li>7-time Ballon d'Or winner</li>
+        <li>4-time UEFA Champions League winner with Barcelona</li>
+        <li>2022 FIFA World Cup Champion with Argentina</li>
+        <li>All-time top scorer for Barcelona</li>
+    </ul>
+
+    <h2>Fun Facts</h2>
+    <ol>
+        <li>He’s known for his left-footed dribbling and amazing vision on the field.</li>
+        <li>Messi holds the record for most goals in a calendar year (91 in 2012).</li>
+        <li>He is a UNICEF Goodwill Ambassador.</li>
+    </ol>
+
+    <p>
+        For more about Messi, visit his <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank">Wikipedia page</a>.
+    </p>
+
+</body>
+</html>
+
+
